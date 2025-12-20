@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# ML Models
+*.h5
+*.pth
+*.pkl
+
+# Node
+node_modules/
+
+# Data
+data/
+datasets/
+
+# OS
+.DS_Store
